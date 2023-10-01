@@ -38,4 +38,3 @@ dependencies:
   - sympy
   - pip:
     - datascience
-    - https://github.com/emeyers/YData_package/tarball/master
