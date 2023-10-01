@@ -1,6 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ARomach/DateReconstructionForCuneiform/HEAD)
+
 # Date Reconstruction for Cuneiform Documents
 
-This repository includes a Jupyter Notebook that assess the plausibility of using prosopography to assign dates to documents in which the dating formula is broken.
+This repository includes a Jupyter Notebook that assess the plausibility of using prosopography to assign dates to documents in which the dating formula is broken. The code can be run without any installation through binder: <https://mybinder.org/v2/gh/ARomach/DateReconstructionForCuneiform/HEAD>.
 
 An important digital prospographical resource for ancient cuneiform documents is the [Prosobab project and Database](https://prosobab.leidenuniv.nl/)[^1]. It is an open access prosopography of individuals who appear in cuneiform documents from 678-325 BCE. These documents are daily texts, primarily legal documents. For the tablets available in the database, every person attested in a document is a case, and different attestations of the same person are linked via a common ID (termed PID in the database columns). This database allows for a large quantitative evaluation of the wide-spread methodology of using prosopography - disambiguated individuals - for reconstructing missing dates in historical documents.
 
