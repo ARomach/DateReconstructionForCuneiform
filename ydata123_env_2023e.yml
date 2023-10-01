@@ -1,0 +1,41 @@
+name: ydata123_2023e
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - bokeh
+  - dask
+  - geopandas
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_server
+  - matplotlib
+  - nb_conda_kernels
+  - nbconvert
+  - nbformat
+  - notebook
+  - numexpr
+  - numpy
+  - pandas
+  - plotly
+  - polars
+  - pillow
+  - pip
+  - pycurl
+  - python
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - send2trash
+  - soupsieve
+  - statsmodels
+  - sympy
+  - pip:
+    - datascience
+    - https://github.com/emeyers/YData_package/tarball/master
